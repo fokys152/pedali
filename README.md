@@ -1,1 +1,3 @@
 # pedali
+Култышев
+C#, MySQL
